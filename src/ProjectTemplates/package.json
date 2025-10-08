@@ -29,6 +29,6 @@
     "pdfjs-dist": "^4.10.38"
   },
   "devDependencies": {
-    "commander": "^13.1.0"
+    "commander": "^14.0.1"
   }
 }
